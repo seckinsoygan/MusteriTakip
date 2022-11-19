@@ -14,3 +14,4 @@ musteriManager.Add(musteriListesi, musteri3);
 musteriManager.List(musteriListesi);
 
 //Git versiyon çalışmaları için bu proje kullanıldı.
+//Branch test çalışmaları.
